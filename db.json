@@ -1,402 +1,404 @@
-[
-  {
-    "id": 1,
-    "name": "Attack on Titan",
-    "image": "https://example.com/attack_on_titan.jpg",
-    "title": "Attack on Titan",
-    "description": "Attack on Titan follows humanity's struggle for survival against terrifying giants known as Titans, as well as the mysteries surrounding their existence and the world they inhabit.",
-    "rating": 9.0
-  },
-  {
-    "id": 2,
-    "name": "My Hero Academia",
-    "image": "https://example.com/my_hero_academia.jpg",
-    "title": "My Hero Academia",
-    "description": "My Hero Academia portrays a world where nearly everyone possesses superpowers, focusing on a young boy named Izuku Midoriya as he strives to become a hero despite being born without powers.",
-    "rating": 8.8
-  },
-  {
-    "id": 3,
-    "name": "One Piece",
-    "image": "https://example.com/one_piece.jpg",
-    "title": "One Piece",
-    "description": "One Piece chronicles the adventures of Monkey D. Luffy and his diverse crew as they search for the legendary treasure known as One Piece, navigating through perilous seas and facing formidable foes.",
-    "rating": 9.2
-  },
-  {
-    "id": 4,
-    "name": "Demon Slayer",
-    "image": "https://example.com/demon_slayer.jpg",
-    "title": "Demon Slayer",
-    "description": "Demon Slayer follows Tanjiro Kamado, a young boy turned demon slayer, on his quest to avenge his family and cure his sister who has been turned into a demon.",
-    "rating": 9.1
-  },
-  {
-    "id": 5,
-    "name": "Death Note",
-    "image": "https://example.com/death_note.jpg",
-    "title": "Death Note",
-    "description": "Death Note centers on a high school student named Light Yagami who discovers a supernatural notebook that allows him to kill anyone by writing their name in it, leading to a psychological battle between him and a brilliant detective known as L.",
-    "rating": 9.0
-  },
-  {
-    "id": 6,
-    "name": "Fullmetal Alchemist: Brotherhood",
-    "image": "https://example.com/fullmetal_alchemist.jpg",
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "description": "Fullmetal Alchemist: Brotherhood follows the journey of two brothers, Edward and Alphonse Elric, as they seek the Philosopher's Stone to restore their bodies after a failed alchemy experiment. Along the way, they uncover a deep conspiracy that threatens their world.",
-    "rating": 9.1
-  },
-  {
-    "id": 7,
-    "name": "Hunter x Hunter",
-    "image": "https://example.com/hunter_x_hunter.jpg",
-    "title": "Hunter x Hunter",
-    "description": "Hunter x Hunter follows a young boy named Gon Freecss as he embarks on a journey to become a Hunter and find his father. Along the way, he encounters friends and foes, facing numerous challenges in the Hunter Exam and beyond.",
-    "rating": 9.0
-  },
-  {
-    "id": 8,
-    "name": "Sword Art Online",
-    "image": "https://example.com/sword_art_online.jpg",
-    "title": "Sword Art Online",
-    "description": "Sword Art Online is set in a virtual reality MMORPG where players become trapped and must clear the game to escape. The series follows Kirito and his friends as they navigate through various virtual worlds, facing both in-game challenges and real-life consequences.",
-    "rating": 7.6
-  },
-  {
-    "id": 9,
-    "name": "Your Lie in April",
-    "image": "https://example.com/your_lie_in_april.jpg",
-    "title": "Your Lie in April",
-    "description": "Your Lie in April tells the story of Kousei Arima, a former child prodigy pianist who lost his ability to hear the sound of his own playing after his mother's death. His life takes a turn when he meets a free-spirited violinist named Kaori Miyazono, who helps him rediscover his love for music.",
-    "rating": 8.7
-  },
-  {
-    "id": 10,
-    "name": "Cowboy Bebop",
-    "image": "https://example.com/cowboy_bebop.jpg",
-    "title": "Cowboy Bebop",
-    "description": "Cowboy Bebop follows the adventures of a group of bounty hunters traveling through space in the year 2071. Led by the enigmatic Spike Spiegel, the crew of the spaceship Bebop takes on various jobs while dealing with their own troubled pasts.",
-    "rating": 8.9
-  },
-  {
-    "id": 11,
-    "name": "Neon Genesis Evangelion",
-    "image": "https://example.com/neon_genesis_evangelion.jpg",
-    "title": "Neon Genesis Evangelion",
-    "description": "Neon Genesis Evangelion is set in a world ravaged by mysterious beings known as Angels. The series follows teenager Shinji Ikari as he is recruited by the organization NERV to pilot a giant bio-mechanical robot called an Evangelion to protect humanity from the Angels.",
-    "rating": 8.6
-  },
-  {
-    "id": 12,
-    "name": "Steins;Gate",
-    "image": "https://example.com/steins_gate.jpg",
-    "title": "Steins;Gate",
-    "description": "Steins;Gate follows a group of friends who discover a way to send messages to the past using a microwave oven, leading to unintended consequences and a confrontation with a powerful organization. The series explores themes of time travel and its ethical implications.",
-    "rating": 9.0
-  },
-  {
-    "id": 13,
-    "name": "Code Geass",
-    "image": "https://example.com/code_geass.jpg",
-    "title": "Code Geass",
-    "description": "Code Geass is set in an alternate world where the Holy Britannian Empire dominates much of the globe. The series follows Lelouch vi Britannia, a young exiled prince who gains the power of Geass, allowing him to command others, as he seeks to overthrow the Britannian regime.",
-    "rating": 8.9
-  },
-  {
-    "id": 14,
-    "name": "Dragon Ball Z",
-    "image": "https://example.com/dragon_ball_z.jpg",
-    "title": "Dragon Ball Z",
-    "description": "Dragon Ball Z follows the adventures of Goku and his friends as they defend Earth from powerful foes and search for the Dragon Balls, mystical orbs that can grant any wish. The series is known for its intense battles and iconic characters.",
-    "rating": 8.7
-  },
-  {
-    "id": 15,
-    "name": "Spirited Away",
-    "image": "https://example.com/spirited_away.jpg",
-    "title": "Spirited Away",
-    "description": "Spirited Away follows the story of Chihiro Ogino, a young girl who becomes trapped in a mysterious spirit world after her parents are transformed into pigs. To save her family and return to the human world, Chihiro must work at a bathhouse run by a powerful witch.",
-    "rating": 9.0
-  },
-  {
-    "id": 16,
-    "name": "Tokyo Ghoul",
-    "image": "https://example.com/tokyo_ghoul.jpg",
-    "title": "Tokyo Ghoul",
-    "description": "Tokyo Ghoul is set in a world where humans coexist with ghouls, creatures that can only survive by consuming human flesh. The series follows Ken Kaneki, a college student who becomes a half-ghoul after a chance encounter with one of these creatures, as he navigates the complex social dynamics between humans and ghouls.",
-    "rating": 8.5
-  },
-  {
-    "id": 17,
-    "name": "One Punch Man",
-    "image": "https://example.com/one_punch_man.jpg",
-    "title": "One Punch Man",
-    "description": "One Punch Man follows the story of Saitama, a hero who can defeat any opponent with a single punch, leading to his boredom and frustration. Despite his overwhelming power, Saitama seeks meaning in his life by searching for opponents who can challenge him.",
-    "rating": 8.7
-  },
-  {
-    "id": 18,
-    "name": "Kimi no Na wa (Your Name)",
-    "image": "https://example.com/your_name.jpg",
-    "title": "Kimi no Na wa (Your Name)",
-    "description": "Kimi no Na wa (Your Name) follows the story of two teenagers, Taki and Mitsuha, who mysteriously swap bodies. As they try to navigate each other's lives and unravel the truth behind their connection, they become entangled in a larger cosmic phenomenon.",
-    "rating": 8.9
-  },
-  {
-    "id": 19,
-    "name": "Haikyuu!!",
-    "image": "https://example.com/haikyuu.jpg",
-    "title": "Haikyuu!!",
-    "description": "Haikyuu!! follows the journey of Shoyo Hinata, a volleyball enthusiast with a short stature, who dreams of becoming a great volleyball player. Despite facing numerous challenges, Hinata joins his high school volleyball team and forms a dynamic duo with his rival, Tobio Kageyama.",
-    "rating": 8.8
-  },
-  {
-    "id": 20,
-    "name": "Clannad",
-    "image": "https://example.com/clannad.jpg",
-    "title": "Clannad",
-    "description": "Clannad follows the story of Tomoya Okazaki, a delinquent high school student, who forms unexpected relationships with his classmates and helps them overcome their personal struggles. The series explores themes of family, friendship, and the passage of time.",
-    "rating": 8.6
-  },
-  {
-    "id": 21,
-    "name": "Violet Evergarden",
-    "image": "https://example.com/violet_evergarden.jpg",
-    "title": "Violet Evergarden",
-    "description": "Violet Evergarden follows the journey of Violet, a former soldier who becomes an Auto Memory Doll, writing letters on behalf of others to convey their emotions. As Violet learns the meaning of love and loss, she embarks on a quest to understand her own feelings.",
-    "rating": 8.8
-  },
-  {
-    "id": 22,
-    "name": "Re:Zero - Starting Life in Another World",
-    "image": "https://example.com/re_zero.jpg",
-    "title": "Re:Zero - Starting Life in Another World",
-    "description": "Re:Zero - Starting Life in Another World follows the story of Subaru Natsuki, who finds himself transported to a fantasy world. With the ability to return to a predetermined point in time after dying, Subaru must navigate the dangerous and unpredictable events that unfold around him.",
-    "rating": 8.7
-  },
-  {
-    "id": 23,
-    "name": "Fairy Tail",
-    "image": "https://example.com/fairy_tail.jpg",
-    "title": "Fairy Tail",
-    "description": "Fairy Tail follows the adventures of Lucy Heartfilia, a young celestial wizard, as she joins the Fairy Tail guild and befriends its eccentric members. Together, they take on various missions and confront powerful adversaries while forging strong bonds of friendship.",
-    "rating": 8.0
-  },
-  {
-    "id": 24,
-    "name": "The Promised Neverland",
-    "image": "https://example.com/promised_neverland.jpg",
-    "title": "The Promised Neverland",
-    "description": "The Promised Neverland is set in a world where children are raised in an idyllic orphanage, only to discover that it hides a dark secret. As they plot their escape, Emma, Norman, and Ray uncover the truth about their existence and the sinister forces at play.",
-    "rating": 8.5
-  },
-  {
-    "id": 25,
-    "name": "Assassination Classroom",
-    "image": "https://example.com/assassination_classroom.jpg",
-    "title": "Assassination Classroom",
-    "description": "Assassination Classroom follows a group of students tasked with assassinating their octopus-like teacher, Koro-sensei, who threatens to destroy the Earth. Despite their initial reluctance, the students form a bond with their teacher and learn valuable lessons both in and out of the classroom.",
-    "rating": 8.4
-  },
-  {
-    "id": 26,
-    "name": "Made in Abyss",
-    "image": "https://example.com/made_in_abyss.jpg",
-    "title": "Made in Abyss",
-    "description": "Made in Abyss follows the journey of Riko, a young girl who descends into the Abyss, a mysterious and dangerous chasm, in search of her mother. Along the way, she befriends a humanoid robot named Reg and uncovers the secrets of the Abyss.",
-    "rating": 8.7
-  },
-  {
-    "id": 27,
-    "name": "Black Clover",
-    "image": "https://example.com/black_clover.jpg",
-    "title": "Black Clover",
-    "description": "Black Clover follows the story of Asta, a young boy born without magic in a world where it is everything. Despite his lack of magical ability, Asta dreams of becoming the Wizard King, the strongest mage in the Clover Kingdom, and embarks on a journey to achieve his goal.",
-    "rating": 7.5
-  },
-  {
-    "id": 28,
-    "name": "Mob Psycho 100",
-    "image": "https://example.com/mob_psycho_100.jpg",
-    "title": "Mob Psycho 100",
-    "description": "Mob Psycho 100 follows the story of Shigeo Kageyama, also known as Mob, a young boy with powerful psychic abilities. Despite his incredible powers, Mob strives to live a normal life and suppress his emotions to avoid causing harm to others.",
-    "rating": 8.6
-  },
-  {
-    "id": 29,
-    "name": "Parasyte -the maxim-",
-    "image": "https://example.com/parasyte.jpg",
-    "title": "Parasyte -the maxim-",
-    "description": "Parasyte -the maxim- follows the story of Shinichi Izumi, a high school student who becomes infected by a parasitic alien. As he forms a symbiotic relationship with the creature, Shinichi must navigate the dangers posed",
-    "rating": 8.5
-  },
-  {
-    "id": 30,
-    "name": "JoJo's Bizarre Adventure",
-    "image": "https://example.com/jojo_bizarre_adventure.jpg",
-    "title": "JoJo's Bizarre Adventure",
-    "description": "JoJo's Bizarre Adventure follows the Joestar family through several generations, each encountering supernatural foes and uncovering ancient artifacts. The series is known for its unique art style, over-the-top characters, and creative battles.",
-    "rating": 8.7
-  },
-  {
-    "id": 31,
-    "name": "The Seven Deadly Sins",
-    "image": "https://example.com/seven_deadly_sins.jpg",
-    "title": "The Seven Deadly Sins",
-    "description": "The Seven Deadly Sins follows the adventures of the legendary group of knights known as the Seven Deadly Sins, as they attempt to save the kingdom of Britannia from tyranny and overthrow the corrupt Holy Knights.",
-    "rating": 8.4
-  },
-  {
-    "id": 32,
-    "name": "Psycho-Pass",
-    "image": "https://example.com/psycho_pass.jpg",
-    "title": "Psycho-Pass",
-    "description": "Psycho-Pass is set in a dystopian future where a system called Sibyl determines a person's likelihood to commit crimes. The series follows Akane Tsunemori, a young inspector, as she navigates the moral complexities of law enforcement in a society governed by technology.",
-    "rating": 8.5
-  },
-  {
-    "id": 33,
-    "name": "Toradora!",
-    "image": "https://example.com/toradora.jpg",
-    "title": "Toradora!",
-    "description": "Toradora! follows the story of Ryuuji Takasu and Taiga Aisaka, two high school students with contrasting personalities who form an unlikely alliance to help each other pursue their romantic interests.",
-    "rating": 8.6
-  },
-  {
-    "id": 34,
-    "name": "Attack on Titan: Junior High",
-    "image": "https://example.com/attack_on_titan_junior_high.jpg",
-    "title": "Attack on Titan: Junior High",
-    "description": "Attack on Titan: Junior High is a parody spin-off of the original Attack on Titan series, set in a middle school where the characters from the main series attend classes and encounter comedic situations.",
-    "rating": 7.3
-  },
-  {
-    "id": 35,
-    "name": "Death Parade",
-    "image": "https://example.com/death_parade.jpg",
-    "title": "Death Parade",
-    "description": "Death Parade takes place in a mysterious bar where deceased souls are judged through a series of games to determine their fate in the afterlife. The series explores themes of life, death, and redemption.",
-    "rating": 8.4
-  },
-  {
-    "id": 36,
-    "name": "Noragami",
-    "image": "https://example.com/noragami.jpg",
-    "title": "Noragami",
-    "description": "Noragami follows the story of Yato, a minor deity who dreams of becoming a renowned god. Alongside his weapon partner Yukine and a human girl named Hiyori, Yato takes on odd jobs to gain recognition and build his own shrine.",
-    "rating": 8.2
-  },
-  {
-    "id": 37,
-    "name": "Erased",
-    "image": "https://example.com/erased.jpg",
-    "title": "Erased",
-    "description": "Erased follows Satoru Fujinuma, a man with the ability to travel back in time moments before a life-threatening incident occurs. Satoru uses this power to prevent tragedies and uncover the truth behind the murder of his childhood friend.",
-    "rating": 8.5
-  },
-  {
-    "id": 38,
-    "name": "Akame ga Kill!",
-    "image": "https://example.com/akame_ga_kill.jpg",
-    "title": "Akame ga Kill!",
-    "description": "Akame ga Kill! follows the story of Tatsumi, a young warrior who joins an assassination group known as Night Raid to fight against the corrupt Empire. As Tatsumi battles powerful adversaries, he faces difficult moral choices and learns the true meaning of justice.",
-    "rating": 7.8
-  },
-  {
-    "id": 39,
-    "name": "Yu Yu Hakusho",
-    "image": "https://example.com/yu_yu_hakusho.jpg",
-    "title": "Yu Yu Hakusho",
-    "description": "Yu Yu Hakusho follows the story of Yusuke Urameshi, a teenage delinquent who is granted the opportunity to return to life as a Spirit Detective after sacrificing himself to save a child. Yusuke must investigate supernatural phenomena and protect the human world from demonic threats.",
-    "rating": 8.6
-  },
-  {
-    "id": 40,
-    "name": "Black Lagoon",
-    "image": "https://example.com/black_lagoon.jpg",
-    "title": "Black Lagoon",
-    "description": "Black Lagoon follows the adventures of a group of mercenaries known as the Lagoon Company, who operate in the lawless waters of Southeast Asia. The series is characterized by its gritty realism, intense action scenes, and morally ambiguous characters.",
-    "rating": 8.1
-  },
-  {
-    "id": 41,
-    "name": "No Game No Life",
-    "image": "https://example.com/no_game_no_life.jpg",
-    "title": "No Game No Life",
-    "description": "No Game No Life follows the story of Sora and Shiro, a brother and sister duo known as Blank who excel at gaming. Transported to a world where everything is decided by games, they aim to conquer the realm and challenge the god of games.",
-    "rating": 8.3
-  },
-  {
-    "id": 42,
-    "name": "K-On!",
-    "image": "https://example.com/k_on.jpg",
-    "title": "K-On!",
-    "description": "K-On! follows the daily lives of a high school music club, focusing on its members as they bond over music, friendship, and the joys of youth.",
-    "rating": 8.0
-  },
-  {
-    "id": 43,
-    "name": "Gurren Lagann",
-    "image": "https://example.com/gurren_lagann.jpg",
-    "title": "Gurren Lagann",
-    "description": "Gurren Lagann follows Simon and Kamina, two young men who rise up against oppressive forces using giant robots known as Gunmen. The series is known for its over-the-top action, memorable characters, and themes of determination and rebellion.",
-    "rating": 8.7
-  },
-  {
-    "id": 44,
-    "name": "Berserk",
-    "image": "https://example.com/berserk.jpg",
-    "title": "Berserk",
-    "description": "Berserk follows the story of Guts, a lone mercenary with a tragic past, as he battles his way through a dark and brutal medieval world filled with demons, political intrigue, and moral ambiguity.",
-    "rating": 8.9
-  },
-  {
-    "id": 45,
-    "name": "Hellsing Ultimate",
-    "image": "https://example.com/hellsing_ultimate.jpg",
-    "title": "Hellsing Ultimate",
-    "description": "Hellsing Ultimate follows the Hellsing Organization, a secret British task force dedicated to combating supernatural threats, as they face off against vampires, ghouls, and other creatures of the night.",
-    "rating": 8.5
-  },
-  {
-    "id": 46,
-    "name": "Great Teacher Onizuka",
-    "image": "https://example.com/great_teacher_onizuka.jpg",
-    "title": "Great Teacher Onizuka",
-    "description": "Great Teacher Onizuka follows the story of Eikichi Onizuka, a former biker gang member who becomes a high school teacher with unconventional methods. Through his unorthodox teaching style, Onizuka aims to inspire and support his students, often with humorous and heartwarming results.",
-    "rating": 8.8
-  },
-  {
-    "id": 47,
-    "name": "Trigun",
-    "image": "https://example.com/trigun.jpg",
-    "title": "Trigun",
-    "description": "Trigun follows the adventures of Vash the Stampede, a legendary gunslinger with a mysterious past, as he travels through a desert wasteland inhabited by outlaws, mercenaries, and dangerous creatures.",
-    "rating": 8.5
-  },
-  {
-    "id": 48,
-    "name": "Mushishi",
-    "image": "https://example.com/mushishi.jpg",
-    "title": "Mushishi",
-    "description": "Mushishi follows Ginko, a Mushi Master who travels through rural Japan, studying and dealing with Mushi, ethereal creatures that exist beyond the realm of normal life. Each episode explores different encounters with Mushi and their profound effects on humans.",
-    "rating": 8.8
-  },
-  {
-    "id": 49,
-    "name": "Spice and Wolf",
-    "image": "https://example.com/spice_and_wolf.jpg",
-    "title": "Spice and Wolf",
-    "description": "Spice and Wolf follows the journey of Kraft Lawrence, a traveling merchant, and Holo, a wise wolf deity who takes the form of a young woman. Together, they embark on an adventure filled with economic intrigue, medieval politics, and blossoming romance.",
-    "rating": 8.4
-  },
-  {
-    "id": 50,
-    "name": "Redo of Healer",
-    "image": "https://example.com/redo_of_a_healer.jpg",
-    "title": "Redo of a Healer",
-    "description": "Redo of a Healer follows the story of Keyaru, a healing hero who seeks revenge against those who betrayed him. After gaining the ability to rewind time and retain his memories, Keyaru sets out on a dark and twisted journey to rewrite his tragic past.",
-    "rating": 7.5
-  }
-]
+{
+  "anime-list": [
+    {
+      "id": 1,
+      "name": "Attack on Titan",
+      "image": "https://example.com/attack_on_titan.jpg",
+      "title": "Attack on Titan",
+      "description": "Attack on Titan follows humanity's struggle for survival against terrifying giants known as Titans, as well as the mysteries surrounding their existence and the world they inhabit.",
+      "rating": 9.0
+    },
+    {
+      "id": 2,
+      "name": "My Hero Academia",
+      "image": "https://example.com/my_hero_academia.jpg",
+      "title": "My Hero Academia",
+      "description": "My Hero Academia portrays a world where nearly everyone possesses superpowers, focusing on a young boy named Izuku Midoriya as he strives to become a hero despite being born without powers.",
+      "rating": 8.8
+    },
+    {
+      "id": 3,
+      "name": "One Piece",
+      "image": "https://example.com/one_piece.jpg",
+      "title": "One Piece",
+      "description": "One Piece chronicles the adventures of Monkey D. Luffy and his diverse crew as they search for the legendary treasure known as One Piece, navigating through perilous seas and facing formidable foes.",
+      "rating": 9.2
+    },
+    {
+      "id": 4,
+      "name": "Demon Slayer",
+      "image": "https://example.com/demon_slayer.jpg",
+      "title": "Demon Slayer",
+      "description": "Demon Slayer follows Tanjiro Kamado, a young boy turned demon slayer, on his quest to avenge his family and cure his sister who has been turned into a demon.",
+      "rating": 9.1
+    },
+    {
+      "id": 5,
+      "name": "Death Note",
+      "image": "https://example.com/death_note.jpg",
+      "title": "Death Note",
+      "description": "Death Note centers on a high school student named Light Yagami who discovers a supernatural notebook that allows him to kill anyone by writing their name in it, leading to a psychological battle between him and a brilliant detective known as L.",
+      "rating": 9.0
+    },
+    {
+      "id": 6,
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "image": "https://example.com/fullmetal_alchemist.jpg",
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "Fullmetal Alchemist: Brotherhood follows the journey of two brothers, Edward and Alphonse Elric, as they seek the Philosopher's Stone to restore their bodies after a failed alchemy experiment. Along the way, they uncover a deep conspiracy that threatens their world.",
+      "rating": 9.1
+    },
+    {
+      "id": 7,
+      "name": "Hunter x Hunter",
+      "image": "https://example.com/hunter_x_hunter.jpg",
+      "title": "Hunter x Hunter",
+      "description": "Hunter x Hunter follows a young boy named Gon Freecss as he embarks on a journey to become a Hunter and find his father. Along the way, he encounters friends and foes, facing numerous challenges in the Hunter Exam and beyond.",
+      "rating": 9.0
+    },
+    {
+      "id": 8,
+      "name": "Sword Art Online",
+      "image": "https://example.com/sword_art_online.jpg",
+      "title": "Sword Art Online",
+      "description": "Sword Art Online is set in a virtual reality MMORPG where players become trapped and must clear the game to escape. The series follows Kirito and his friends as they navigate through various virtual worlds, facing both in-game challenges and real-life consequences.",
+      "rating": 7.6
+    },
+    {
+      "id": 9,
+      "name": "Your Lie in April",
+      "image": "https://example.com/your_lie_in_april.jpg",
+      "title": "Your Lie in April",
+      "description": "Your Lie in April tells the story of Kousei Arima, a former child prodigy pianist who lost his ability to hear the sound of his own playing after his mother's death. His life takes a turn when he meets a free-spirited violinist named Kaori Miyazono, who helps him rediscover his love for music.",
+      "rating": 8.7
+    },
+    {
+      "id": 10,
+      "name": "Cowboy Bebop",
+      "image": "https://example.com/cowboy_bebop.jpg",
+      "title": "Cowboy Bebop",
+      "description": "Cowboy Bebop follows the adventures of a group of bounty hunters traveling through space in the year 2071. Led by the enigmatic Spike Spiegel, the crew of the spaceship Bebop takes on various jobs while dealing with their own troubled pasts.",
+      "rating": 8.9
+    },
+    {
+      "id": 11,
+      "name": "Neon Genesis Evangelion",
+      "image": "https://example.com/neon_genesis_evangelion.jpg",
+      "title": "Neon Genesis Evangelion",
+      "description": "Neon Genesis Evangelion is set in a world ravaged by mysterious beings known as Angels. The series follows teenager Shinji Ikari as he is recruited by the organization NERV to pilot a giant bio-mechanical robot called an Evangelion to protect humanity from the Angels.",
+      "rating": 8.6
+    },
+    {
+      "id": 12,
+      "name": "Steins;Gate",
+      "image": "https://example.com/steins_gate.jpg",
+      "title": "Steins;Gate",
+      "description": "Steins;Gate follows a group of friends who discover a way to send messages to the past using a microwave oven, leading to unintended consequences and a confrontation with a powerful organization. The series explores themes of time travel and its ethical implications.",
+      "rating": 9.0
+    },
+    {
+      "id": 13,
+      "name": "Code Geass",
+      "image": "https://example.com/code_geass.jpg",
+      "title": "Code Geass",
+      "description": "Code Geass is set in an alternate world where the Holy Britannian Empire dominates much of the globe. The series follows Lelouch vi Britannia, a young exiled prince who gains the power of Geass, allowing him to command others, as he seeks to overthrow the Britannian regime.",
+      "rating": 8.9
+    },
+    {
+      "id": 14,
+      "name": "Dragon Ball Z",
+      "image": "https://example.com/dragon_ball_z.jpg",
+      "title": "Dragon Ball Z",
+      "description": "Dragon Ball Z follows the adventures of Goku and his friends as they defend Earth from powerful foes and search for the Dragon Balls, mystical orbs that can grant any wish. The series is known for its intense battles and iconic characters.",
+      "rating": 8.7
+    },
+    {
+      "id": 15,
+      "name": "Spirited Away",
+      "image": "https://example.com/spirited_away.jpg",
+      "title": "Spirited Away",
+      "description": "Spirited Away follows the story of Chihiro Ogino, a young girl who becomes trapped in a mysterious spirit world after her parents are transformed into pigs. To save her family and return to the human world, Chihiro must work at a bathhouse run by a powerful witch.",
+      "rating": 9.0
+    },
+    {
+      "id": 16,
+      "name": "Tokyo Ghoul",
+      "image": "https://example.com/tokyo_ghoul.jpg",
+      "title": "Tokyo Ghoul",
+      "description": "Tokyo Ghoul is set in a world where humans coexist with ghouls, creatures that can only survive by consuming human flesh. The series follows Ken Kaneki, a college student who becomes a half-ghoul after a chance encounter with one of these creatures, as he navigates the complex social dynamics between humans and ghouls.",
+      "rating": 8.5
+    },
+    {
+      "id": 17,
+      "name": "One Punch Man",
+      "image": "https://example.com/one_punch_man.jpg",
+      "title": "One Punch Man",
+      "description": "One Punch Man follows the story of Saitama, a hero who can defeat any opponent with a single punch, leading to his boredom and frustration. Despite his overwhelming power, Saitama seeks meaning in his life by searching for opponents who can challenge him.",
+      "rating": 8.7
+    },
+    {
+      "id": 18,
+      "name": "Kimi no Na wa (Your Name)",
+      "image": "https://example.com/your_name.jpg",
+      "title": "Kimi no Na wa (Your Name)",
+      "description": "Kimi no Na wa (Your Name) follows the story of two teenagers, Taki and Mitsuha, who mysteriously swap bodies. As they try to navigate each other's lives and unravel the truth behind their connection, they become entangled in a larger cosmic phenomenon.",
+      "rating": 8.9
+    },
+    {
+      "id": 19,
+      "name": "Haikyuu!!",
+      "image": "https://example.com/haikyuu.jpg",
+      "title": "Haikyuu!!",
+      "description": "Haikyuu!! follows the journey of Shoyo Hinata, a volleyball enthusiast with a short stature, who dreams of becoming a great volleyball player. Despite facing numerous challenges, Hinata joins his high school volleyball team and forms a dynamic duo with his rival, Tobio Kageyama.",
+      "rating": 8.8
+    },
+    {
+      "id": 20,
+      "name": "Clannad",
+      "image": "https://example.com/clannad.jpg",
+      "title": "Clannad",
+      "description": "Clannad follows the story of Tomoya Okazaki, a delinquent high school student, who forms unexpected relationships with his classmates and helps them overcome their personal struggles. The series explores themes of family, friendship, and the passage of time.",
+      "rating": 8.6
+    },
+    {
+      "id": 21,
+      "name": "Violet Evergarden",
+      "image": "https://example.com/violet_evergarden.jpg",
+      "title": "Violet Evergarden",
+      "description": "Violet Evergarden follows the journey of Violet, a former soldier who becomes an Auto Memory Doll, writing letters on behalf of others to convey their emotions. As Violet learns the meaning of love and loss, she embarks on a quest to understand her own feelings.",
+      "rating": 8.8
+    },
+    {
+      "id": 22,
+      "name": "Re:Zero - Starting Life in Another World",
+      "image": "https://example.com/re_zero.jpg",
+      "title": "Re:Zero - Starting Life in Another World",
+      "description": "Re:Zero - Starting Life in Another World follows the story of Subaru Natsuki, who finds himself transported to a fantasy world. With the ability to return to a predetermined point in time after dying, Subaru must navigate the dangerous and unpredictable events that unfold around him.",
+      "rating": 8.7
+    },
+    {
+      "id": 23,
+      "name": "Fairy Tail",
+      "image": "https://example.com/fairy_tail.jpg",
+      "title": "Fairy Tail",
+      "description": "Fairy Tail follows the adventures of Lucy Heartfilia, a young celestial wizard, as she joins the Fairy Tail guild and befriends its eccentric members. Together, they take on various missions and confront powerful adversaries while forging strong bonds of friendship.",
+      "rating": 8.0
+    },
+    {
+      "id": 24,
+      "name": "The Promised Neverland",
+      "image": "https://example.com/promised_neverland.jpg",
+      "title": "The Promised Neverland",
+      "description": "The Promised Neverland is set in a world where children are raised in an idyllic orphanage, only to discover that it hides a dark secret. As they plot their escape, Emma, Norman, and Ray uncover the truth about their existence and the sinister forces at play.",
+      "rating": 8.5
+    },
+    {
+      "id": 25,
+      "name": "Assassination Classroom",
+      "image": "https://example.com/assassination_classroom.jpg",
+      "title": "Assassination Classroom",
+      "description": "Assassination Classroom follows a group of students tasked with assassinating their octopus-like teacher, Koro-sensei, who threatens to destroy the Earth. Despite their initial reluctance, the students form a bond with their teacher and learn valuable lessons both in and out of the classroom.",
+      "rating": 8.4
+    },
+    {
+      "id": 26,
+      "name": "Made in Abyss",
+      "image": "https://example.com/made_in_abyss.jpg",
+      "title": "Made in Abyss",
+      "description": "Made in Abyss follows the journey of Riko, a young girl who descends into the Abyss, a mysterious and dangerous chasm, in search of her mother. Along the way, she befriends a humanoid robot named Reg and uncovers the secrets of the Abyss.",
+      "rating": 8.7
+    },
+    {
+      "id": 27,
+      "name": "Black Clover",
+      "image": "https://example.com/black_clover.jpg",
+      "title": "Black Clover",
+      "description": "Black Clover follows the story of Asta, a young boy born without magic in a world where it is everything. Despite his lack of magical ability, Asta dreams of becoming the Wizard King, the strongest mage in the Clover Kingdom, and embarks on a journey to achieve his goal.",
+      "rating": 7.5
+    },
+    {
+      "id": 28,
+      "name": "Mob Psycho 100",
+      "image": "https://example.com/mob_psycho_100.jpg",
+      "title": "Mob Psycho 100",
+      "description": "Mob Psycho 100 follows the story of Shigeo Kageyama, also known as Mob, a young boy with powerful psychic abilities. Despite his incredible powers, Mob strives to live a normal life and suppress his emotions to avoid causing harm to others.",
+      "rating": 8.6
+    },
+    {
+      "id": 29,
+      "name": "Parasyte -the maxim-",
+      "image": "https://example.com/parasyte.jpg",
+      "title": "Parasyte -the maxim-",
+      "description": "Parasyte -the maxim- follows the story of Shinichi Izumi, a high school student who becomes infected by a parasitic alien. As he forms a symbiotic relationship with the creature, Shinichi must navigate the dangers posed",
+      "rating": 8.5
+    },
+    {
+      "id": 30,
+      "name": "JoJo's Bizarre Adventure",
+      "image": "https://example.com/jojo_bizarre_adventure.jpg",
+      "title": "JoJo's Bizarre Adventure",
+      "description": "JoJo's Bizarre Adventure follows the Joestar family through several generations, each encountering supernatural foes and uncovering ancient artifacts. The series is known for its unique art style, over-the-top characters, and creative battles.",
+      "rating": 8.7
+    },
+    {
+      "id": 31,
+      "name": "The Seven Deadly Sins",
+      "image": "https://example.com/seven_deadly_sins.jpg",
+      "title": "The Seven Deadly Sins",
+      "description": "The Seven Deadly Sins follows the adventures of the legendary group of knights known as the Seven Deadly Sins, as they attempt to save the kingdom of Britannia from tyranny and overthrow the corrupt Holy Knights.",
+      "rating": 8.4
+    },
+    {
+      "id": 32,
+      "name": "Psycho-Pass",
+      "image": "https://example.com/psycho_pass.jpg",
+      "title": "Psycho-Pass",
+      "description": "Psycho-Pass is set in a dystopian future where a system called Sibyl determines a person's likelihood to commit crimes. The series follows Akane Tsunemori, a young inspector, as she navigates the moral complexities of law enforcement in a society governed by technology.",
+      "rating": 8.5
+    },
+    {
+      "id": 33,
+      "name": "Toradora!",
+      "image": "https://example.com/toradora.jpg",
+      "title": "Toradora!",
+      "description": "Toradora! follows the story of Ryuuji Takasu and Taiga Aisaka, two high school students with contrasting personalities who form an unlikely alliance to help each other pursue their romantic interests.",
+      "rating": 8.6
+    },
+    {
+      "id": 34,
+      "name": "Attack on Titan: Junior High",
+      "image": "https://example.com/attack_on_titan_junior_high.jpg",
+      "title": "Attack on Titan: Junior High",
+      "description": "Attack on Titan: Junior High is a parody spin-off of the original Attack on Titan series, set in a middle school where the characters from the main series attend classes and encounter comedic situations.",
+      "rating": 7.3
+    },
+    {
+      "id": 35,
+      "name": "Death Parade",
+      "image": "https://example.com/death_parade.jpg",
+      "title": "Death Parade",
+      "description": "Death Parade takes place in a mysterious bar where deceased souls are judged through a series of games to determine their fate in the afterlife. The series explores themes of life, death, and redemption.",
+      "rating": 8.4
+    },
+    {
+      "id": 36,
+      "name": "Noragami",
+      "image": "https://example.com/noragami.jpg",
+      "title": "Noragami",
+      "description": "Noragami follows the story of Yato, a minor deity who dreams of becoming a renowned god. Alongside his weapon partner Yukine and a human girl named Hiyori, Yato takes on odd jobs to gain recognition and build his own shrine.",
+      "rating": 8.2
+    },
+    {
+      "id": 37,
+      "name": "Erased",
+      "image": "https://example.com/erased.jpg",
+      "title": "Erased",
+      "description": "Erased follows Satoru Fujinuma, a man with the ability to travel back in time moments before a life-threatening incident occurs. Satoru uses this power to prevent tragedies and uncover the truth behind the murder of his childhood friend.",
+      "rating": 8.5
+    },
+    {
+      "id": 38,
+      "name": "Akame ga Kill!",
+      "image": "https://example.com/akame_ga_kill.jpg",
+      "title": "Akame ga Kill!",
+      "description": "Akame ga Kill! follows the story of Tatsumi, a young warrior who joins an assassination group known as Night Raid to fight against the corrupt Empire. As Tatsumi battles powerful adversaries, he faces difficult moral choices and learns the true meaning of justice.",
+      "rating": 7.8
+    },
+    {
+      "id": 39,
+      "name": "Yu Yu Hakusho",
+      "image": "https://example.com/yu_yu_hakusho.jpg",
+      "title": "Yu Yu Hakusho",
+      "description": "Yu Yu Hakusho follows the story of Yusuke Urameshi, a teenage delinquent who is granted the opportunity to return to life as a Spirit Detective after sacrificing himself to save a child. Yusuke must investigate supernatural phenomena and protect the human world from demonic threats.",
+      "rating": 8.6
+    },
+    {
+      "id": 40,
+      "name": "Black Lagoon",
+      "image": "https://example.com/black_lagoon.jpg",
+      "title": "Black Lagoon",
+      "description": "Black Lagoon follows the adventures of a group of mercenaries known as the Lagoon Company, who operate in the lawless waters of Southeast Asia. The series is characterized by its gritty realism, intense action scenes, and morally ambiguous characters.",
+      "rating": 8.1
+    },
+    {
+      "id": 41,
+      "name": "No Game No Life",
+      "image": "https://example.com/no_game_no_life.jpg",
+      "title": "No Game No Life",
+      "description": "No Game No Life follows the story of Sora and Shiro, a brother and sister duo known as Blank who excel at gaming. Transported to a world where everything is decided by games, they aim to conquer the realm and challenge the god of games.",
+      "rating": 8.3
+    },
+    {
+      "id": 42,
+      "name": "K-On!",
+      "image": "https://example.com/k_on.jpg",
+      "title": "K-On!",
+      "description": "K-On! follows the daily lives of a high school music club, focusing on its members as they bond over music, friendship, and the joys of youth.",
+      "rating": 8.0
+    },
+    {
+      "id": 43,
+      "name": "Gurren Lagann",
+      "image": "https://example.com/gurren_lagann.jpg",
+      "title": "Gurren Lagann",
+      "description": "Gurren Lagann follows Simon and Kamina, two young men who rise up against oppressive forces using giant robots known as Gunmen. The series is known for its over-the-top action, memorable characters, and themes of determination and rebellion.",
+      "rating": 8.7
+    },
+    {
+      "id": 44,
+      "name": "Berserk",
+      "image": "https://example.com/berserk.jpg",
+      "title": "Berserk",
+      "description": "Berserk follows the story of Guts, a lone mercenary with a tragic past, as he battles his way through a dark and brutal medieval world filled with demons, political intrigue, and moral ambiguity.",
+      "rating": 8.9
+    },
+    {
+      "id": 45,
+      "name": "Hellsing Ultimate",
+      "image": "https://example.com/hellsing_ultimate.jpg",
+      "title": "Hellsing Ultimate",
+      "description": "Hellsing Ultimate follows the Hellsing Organization, a secret British task force dedicated to combating supernatural threats, as they face off against vampires, ghouls, and other creatures of the night.",
+      "rating": 8.5
+    },
+    {
+      "id": 46,
+      "name": "Great Teacher Onizuka",
+      "image": "https://example.com/great_teacher_onizuka.jpg",
+      "title": "Great Teacher Onizuka",
+      "description": "Great Teacher Onizuka follows the story of Eikichi Onizuka, a former biker gang member who becomes a high school teacher with unconventional methods. Through his unorthodox teaching style, Onizuka aims to inspire and support his students, often with humorous and heartwarming results.",
+      "rating": 8.8
+    },
+    {
+      "id": 47,
+      "name": "Trigun",
+      "image": "https://example.com/trigun.jpg",
+      "title": "Trigun",
+      "description": "Trigun follows the adventures of Vash the Stampede, a legendary gunslinger with a mysterious past, as he travels through a desert wasteland inhabited by outlaws, mercenaries, and dangerous creatures.",
+      "rating": 8.5
+    },
+    {
+      "id": 48,
+      "name": "Mushishi",
+      "image": "https://example.com/mushishi.jpg",
+      "title": "Mushishi",
+      "description": "Mushishi follows Ginko, a Mushi Master who travels through rural Japan, studying and dealing with Mushi, ethereal creatures that exist beyond the realm of normal life. Each episode explores different encounters with Mushi and their profound effects on humans.",
+      "rating": 8.8
+    },
+    {
+      "id": 49,
+      "name": "Spice and Wolf",
+      "image": "https://example.com/spice_and_wolf.jpg",
+      "title": "Spice and Wolf",
+      "description": "Spice and Wolf follows the journey of Kraft Lawrence, a traveling merchant, and Holo, a wise wolf deity who takes the form of a young woman. Together, they embark on an adventure filled with economic intrigue, medieval politics, and blossoming romance.",
+      "rating": 8.4
+    },
+    {
+      "id": 50,
+      "name": "Redo of Healer",
+      "image": "https://example.com/redo_of_a_healer.jpg",
+      "title": "Redo of a Healer",
+      "description": "Redo of a Healer follows the story of Keyaru, a healing hero who seeks revenge against those who betrayed him. After gaining the ability to rewind time and retain his memories, Keyaru sets out on a dark and twisted journey to rewrite his tragic past.",
+      "rating": 7.5
+    }
+  ]
+}
