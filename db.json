@@ -25,7 +25,7 @@
       "title": "One Piece",
       "description": "One Piece chronicles the adventures of Monkey D. Luffy and his diverse crew as they search for the legendary treasure known as One Piece, navigating through perilous seas and facing formidable foes.",
       "rating": 9.2,
-      "release_date": "2013-04-07"
+      "release_date": "1999-10-20"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "title": "Demon Slayer",
       "description": "Demon Slayer follows Tanjiro Kamado, a young boy turned demon slayer, on his quest to avenge his family and cure his sister who has been turned into a demon.",
       "rating": 9.1,
-      "release_date": "April 6, 2019"
+      "release_date": "2019-04-06"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "title": "Death Note",
       "description": "Death Note centers on a high school student named Light Yagami who discovers a supernatural notebook that allows him to kill anyone by writing their name in it, leading to a psychological battle between him and a brilliant detective known as L.",
       "rating": 9.0,
-      "release_date": "October 4, 2006"
+      "release_date": "2006-10-04"
     },
     {
       "id": 6,
@@ -61,7 +61,7 @@
       "title": "Hunter x Hunter",
       "description": "Hunter x Hunter follows a young boy named Gon Freecss as he embarks on a journey to become a Hunter and find his father. Along the way, he encounters friends and foes, facing numerous challenges in the Hunter Exam and beyond.",
       "rating": 9.0,
-      "release_date": "October 2, 2011"
+      "release_date": "2011-10-02"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "title": "Sword Art Online",
       "description": "Sword Art Online is set in a virtual reality MMORPG where players become trapped and must clear the game to escape. The series follows Kirito and his friends as they navigate through various virtual worlds, facing both in-game challenges and real-life consequences.",
       "rating": 7.6,
-      "release_date": "July 8, 2012"
+      "release_date": "2012-07-08"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "title": "Your Lie in April",
       "description": "Your Lie in April tells the story of Kousei Arima, a former child prodigy pianist who lost his ability to hear the sound of his own playing after his mother's death. His life takes a turn when he meets a free-spirited violinist named Kaori Miyazono, who helps him rediscover his love for music.",
       "rating": 8.7,
-      "release_date": "July 8, 2012"
+      "release_date": "2014-10-10"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "title": "Cowboy Bebop",
       "description": "Cowboy Bebop follows the adventures of a group of bounty hunters traveling through space in the year 2071. Led by the enigmatic Spike Spiegel, the crew of the spaceship Bebop takes on various jobs while dealing with their own troubled pasts.",
       "rating": 8.9,
-      "release_date": "April 3, 1998"
+      "release_date": "1998-04-03"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "title": "Neon Genesis Evangelion",
       "description": "Neon Genesis Evangelion is set in a world ravaged by mysterious beings known as Angels. The series follows teenager Shinji Ikari as he is recruited by the organization NERV to pilot a giant bio-mechanical robot called an Evangelion to protect humanity from the Angels.",
       "rating": 8.6,
-      "release_date": "October 4, 1995"
+      "release_date": "1995-10-04"
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "title": "Steins;Gate",
       "description": "Steins;Gate follows a group of friends who discover a way to send messages to the past using a microwave oven, leading to unintended consequences and a confrontation with a powerful organization. The series explores themes of time travel and its ethical implications.",
       "rating": 9.0,
-      "release_date": "April 6, 2011"
+      "release_date": "2011-04-06"
     },
     {
       "id": 13,
@@ -115,7 +115,7 @@
       "title": "Code Geass",
       "description": "Code Geass is set in an alternate world where the Holy Britannian Empire dominates much of the globe. The series follows Lelouch vi Britannia, a young exiled prince who gains the power of Geass, allowing him to command others, as he seeks to overthrow the Britannian regime.",
       "rating": 8.9,
-      "release_date": "October 6, 2006"
+      "release_date": "2006-10-06"
     },
     {
       "id": 14,
@@ -124,7 +124,7 @@
       "title": "Dragon Ball Z",
       "description": "Dragon Ball Z follows the adventures of Goku and his friends as they defend Earth from powerful foes and search for the Dragon Balls, mystical orbs that can grant any wish. The series is known for its intense battles and iconic characters.",
       "rating": 8.7,
-      "release_date": "April 26, 1989"
+      "release_date": "1989-04-26"
     },
     {
       "id": 15,
@@ -133,7 +133,7 @@
       "title": "Spirited Away",
       "description": "Spirited Away follows the story of Chihiro Ogino, a young girl who becomes trapped in a mysterious spirit world after her parents are transformed into pigs. To save her family and return to the human world, Chihiro must work at a bathhouse run by a powerful witch.",
       "rating": 9.0,
-      "release_date": "July 20, 2001"
+      "release_date": "2001-07-20"
     },
     {
       "id": 16,
@@ -142,7 +142,7 @@
       "title": "Tokyo Ghoul",
       "description": "Tokyo Ghoul is set in a world where humans coexist with ghouls, creatures that can only survive by consuming human flesh. The series follows Ken Kaneki, a college student who becomes a half-ghoul after a chance encounter with one of these creatures, as he navigates the complex social dynamics between humans and ghouls.",
       "rating": 8.5,
-      "release_date": "July 4, 2014"
+      "release_date": "2014-07-04"
     },
     {
       "id": 17,
@@ -151,7 +151,7 @@
       "title": "One Punch Man",
       "description": "One Punch Man follows the story of Saitama, a hero who can defeat any opponent with a single punch, leading to his boredom and frustration. Despite his overwhelming power, Saitama seeks meaning in his life by searching for opponents who can challenge him.",
       "rating": 8.7,
-      "release_date": "October 5, 2015"
+      "release_date": "2015-10-05"
     },
     {
       "id": 18,
@@ -160,7 +160,7 @@
       "title": "Kimi no Na wa (Your Name)",
       "description": "Kimi no Na wa (Your Name) follows the story of two teenagers, Taki and Mitsuha, who mysteriously swap bodies. As they try to navigate each other's lives and unravel the truth behind their connection, they become entangled in a larger cosmic phenomenon.",
       "rating": 8.9,
-      "release_date": "August 26, 2016"
+      "release_date": "2016-08-26"
     },
     {
       "id": 19,
@@ -169,7 +169,7 @@
       "title": "Haikyuu!!",
       "description": "Haikyuu!! follows the journey of Shoyo Hinata, a volleyball enthusiast with a short stature, who dreams of becoming a great volleyball player. Despite facing numerous challenges, Hinata joins his high school volleyball team and forms a dynamic duo with his rival, Tobio Kageyama.",
       "rating": 8.8,
-      "release_date": "April 6, 2014"
+      "release_date": "2014-04-06"
     },
     {
       "id": 20,
@@ -178,7 +178,7 @@
       "title": "Clannad",
       "description": "Clannad follows the story of Tomoya Okazaki, a delinquent high school student, who forms unexpected relationships with his classmates and helps them overcome their personal struggles. The series explores themes of family, friendship, and the passage of time.",
       "rating": 8.6,
-      "release_date": "October 5, 2007"
+      "release_date": "2007-10-05"
     },
     {
       "id": 21,
@@ -187,7 +187,7 @@
       "title": "Violet Evergarden",
       "description": "Violet Evergarden follows the journey of Violet, a former soldier who becomes an Auto Memory Doll, writing letters on behalf of others to convey their emotions. As Violet learns the meaning of love and loss, she embarks on a quest to understand her own feelings.",
       "rating": 8.8,
-      "release_date": "January 11, 2018"
+      "release_date": "2018-01-11"
     },
     {
       "id": 22,
@@ -196,7 +196,7 @@
       "title": "Re:Zero - Starting Life in Another World",
       "description": "Re:Zero - Starting Life in Another World follows the story of Subaru Natsuki, who finds himself transported to a fantasy world. With the ability to return to a predetermined point in time after dying, Subaru must navigate the dangerous and unpredictable events that unfold around him.",
       "rating": 8.7,
-      "release_date": "April 4, 2016"
+      "release_date": "2016-04-04"
     },
     {
       "id": 23,
@@ -205,7 +205,7 @@
       "title": "Fairy Tail",
       "description": "Fairy Tail follows the adventures of Lucy Heartfilia, a young celestial wizard, as she joins the Fairy Tail guild and befriends its eccentric members. Together, they take on various missions and confront powerful adversaries while forging strong bonds of friendship.",
       "rating": 8.0,
-      "release_date": "October 12, 2009"
+      "release_date": "2009-10-12"
     },
     {
       "id": 24,
@@ -214,7 +214,7 @@
       "title": "The Promised Neverland",
       "description": "The Promised Neverland is set in a world where children are raised in an idyllic orphanage, only to discover that it hides a dark secret. As they plot their escape, Emma, Norman, and Ray uncover the truth about their existence and the sinister forces at play.",
       "rating": 8.5,
-      "release_date": "January 11, 2019"
+      "release_date": "2019-01-11"
     },
     {
       "id": 25,
@@ -223,7 +223,7 @@
       "title": "Assassination Classroom",
       "description": "Assassination Classroom follows a group of students tasked with assassinating their octopus-like teacher, Koro-sensei, who threatens to destroy the Earth. Despite their initial reluctance, the students form a bond with their teacher and learn valuable lessons both in and out of the classroom.",
       "rating": 8.4,
-      "release_date": "July 2, 2012"
+      "release_date": "2012-07-02"
     },
     {
       "id": 26,
